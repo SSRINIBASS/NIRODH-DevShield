@@ -1,0 +1,2 @@
+# github.com/NIRODH/devshield/internal/report
+internal\report\sarif.go:83:31: cannot use map[string]string{ΓÇª} (value of type map[string]string) as map[string]interface{} value in argument to r.WithPartialFingerPrints

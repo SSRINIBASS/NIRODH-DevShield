@@ -1,0 +1,13 @@
+DevShield dev ΓÇö Scanning: C:\Users\srini\Desktop\Projects\NIRODH-DevShield
+Scanners: 1 active
+
+  [Γƒ│] gitleaks running...
+  [Γ£ô] gitleaks completed (0 findings, 65ms)
+[90m2:18AM[0m [32mINF[0m [1m1 commits scanned.[0m
+[90m2:18AM[0m [32mINF[0m [1mSARIF report written[0m [36mpath=[0m".devshield-reports\\devshield.sarif"
+[90m2:18AM[0m [32mINF[0m [1mHTML report written[0m [36mpath=[0m".devshield-reports\\devshield.html"
+[90m2:18AM[0m [32mINF[0m [1mJSON report written[0m [36mpath=[0m".devshield-reports\\devshield.json"
+
+ΓöÇΓöÇ Scan Complete (69ms) ΓöÇΓöÇ
+  Critical: 0  High: 0  Medium: 0  Low: 0  Info: 0  Total: 0
+  Reports: .devshield-reports
